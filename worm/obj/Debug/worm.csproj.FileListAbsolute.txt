@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\worm\worm\obj\Debug\worm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\worm\worm\obj\Debug\worm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\worm\worm\obj\Debug\worm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\worm\worm\bin\Debug\worm.exe.config
+C:\Users\User\source\repos\worm\worm\bin\Debug\worm.exe
+C:\Users\User\source\repos\worm\worm\bin\Debug\worm.pdb
+C:\Users\User\source\repos\worm\worm\obj\Debug\worm.exe
+C:\Users\User\source\repos\worm\worm\obj\Debug\worm.pdb
